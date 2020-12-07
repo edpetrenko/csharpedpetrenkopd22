@@ -1,0 +1,13 @@
+C:\Users\1\Desktop\C_sharp\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.exe
+C:\Users\1\Desktop\C_sharp\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.deps.json
+C:\Users\1\Desktop\C_sharp\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.runtimeconfig.json
+C:\Users\1\Desktop\C_sharp\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.runtimeconfig.dev.json
+C:\Users\1\Desktop\C_sharp\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.dll
+C:\Users\1\Desktop\C_sharp\laba5\laba5\bin\Debug\netcoreapp3.1\laba5.pdb
+C:\Users\1\Desktop\C_sharp\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.csprojAssemblyReference.cache
+C:\Users\1\Desktop\C_sharp\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\C_sharp\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.AssemblyInfo.cs
+C:\Users\1\Desktop\C_sharp\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C_sharp\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.dll
+C:\Users\1\Desktop\C_sharp\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.pdb
+C:\Users\1\Desktop\C_sharp\laba5\laba5\obj\Debug\netcoreapp3.1\laba5.genruntimeconfig.cache
