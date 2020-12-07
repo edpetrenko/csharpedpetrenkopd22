@@ -1,0 +1,13 @@
+C:\Users\1\Desktop\C_sharp\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.exe
+C:\Users\1\Desktop\C_sharp\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.deps.json
+C:\Users\1\Desktop\C_sharp\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.runtimeconfig.json
+C:\Users\1\Desktop\C_sharp\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.runtimeconfig.dev.json
+C:\Users\1\Desktop\C_sharp\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.dll
+C:\Users\1\Desktop\C_sharp\laba6\laba6\bin\Debug\netcoreapp3.1\laba6.pdb
+C:\Users\1\Desktop\C_sharp\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.csprojAssemblyReference.cache
+C:\Users\1\Desktop\C_sharp\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\C_sharp\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.AssemblyInfo.cs
+C:\Users\1\Desktop\C_sharp\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C_sharp\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.dll
+C:\Users\1\Desktop\C_sharp\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.pdb
+C:\Users\1\Desktop\C_sharp\laba6\laba6\obj\Debug\netcoreapp3.1\laba6.genruntimeconfig.cache
